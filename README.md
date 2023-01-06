@@ -16,7 +16,7 @@ I expect you to have atleast a bit python knowledge.
 
 There should be a Replit link somewhere.
 Also the accounts should be line-to-line, like this:
-Account1:password1
+Account1:password1            
 Account2:passsword2
 
 Happy botting, VisualVenture#4208
