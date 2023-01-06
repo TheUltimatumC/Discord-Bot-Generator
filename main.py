@@ -67,8 +67,8 @@ async def on_message(message):
     elif message.content == "!gen help":
        
       
-        await message.channel.send("**You can use the !gen command to generate valorant, spotify, roblox and we are adding more every now an then. How to generate? Use !gen {what do you want to genearte} , it's as easy as that.**")
-      
-client.run(TOKEN)
+        await message.channel.send("**You can use the !gen command to generate valorant, spotify, roblox and we are adding more every now an then. How to generate? Use !gen {what do you want to genearte} , it's as easy as that.** Made pssiable by <@980580281796923452>")
+      #Replace the "PASTE YOUR TOKEN HERE" with your actual token or code wont work.
+client.run("PASTE YOUR TOKEN HERE")
 
 
