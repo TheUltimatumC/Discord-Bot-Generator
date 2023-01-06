@@ -10,6 +10,7 @@ The bot's syntax is !gen
 To generate an account the user has to do !gen {what they want to generate} (example: !gen spotify)
 
 To add the accounts make 3 .txt files named "spotify.txt", "roblox.txt" and "valorant.txt".
+To make the bot work put the token in client.run("token")
 
 If you want to add custom accounts look into the code, i'm not gonna help you with that. 
 I expect you to have atleast a bit python knowledge.
