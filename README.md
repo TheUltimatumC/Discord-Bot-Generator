@@ -2,7 +2,7 @@
 
 **Disclaimer: if you are looking for an actual discord account generator, keep looking, this is not it. This is a Legitamate discord bot that uses commands to give accounts to server members.**
 
-**Disclaimer 2: do not condone illegal activity and will not take responsability for what you use this bot for.**
+**Disclaimer 2: I do not condone illegal activity and will not take responsability for what you use this bot for.**
 
 This bot is short python code that will take accounts you put in the .txt files and give them to a meber that used it.
 
