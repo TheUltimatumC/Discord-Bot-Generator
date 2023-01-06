@@ -22,3 +22,5 @@ Account2:passsword2
 Happy botting, VisualVenture#4208
 
 Also give credits if you are gonna use this bot as i put alot of work in it.
+
+[Run on Repl.it] (https://replit.com/@CiphersDen/Discord-Genrator-Bot-by-VisualVenture4208?v=1)
