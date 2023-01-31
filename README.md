@@ -4,7 +4,7 @@
 
 **Disclaimer 2: I do not condone illegal activity and will not take responsability for what you use this bot for.**
 
-This bot is short python code that will take accounts you put in the .txt files and give them to a meber that used it.
+This bot is short python code that will take accounts you put in the .txt files and give them to a member that used it.
 
 The bot's syntax is !gen
 To generate an account the user has to do !gen {what they want to generate} (example: !gen spotify)
